@@ -1,0 +1,9 @@
+name: Mr. Piou
+game: Thronefall
+
+Thronefall:
+  item_links:
+    - name: ThronefallShared
+      item_pool:
+        - Everything
+      replacement_item: null
